@@ -48,3 +48,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Extra rules for ADS 502
+.RData
+.Rhistory
+.ipynb_checkpoints/
+*.knit.md
